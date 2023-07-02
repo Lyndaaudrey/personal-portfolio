@@ -1,1 +1,1 @@
-Portfolio personnel.
+Ce projet est mon CV virtuel.
